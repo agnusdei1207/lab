@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>LAB ARCHIVE</title>
+      <link>https://agnusdei1207.github.io/lab</link>
+      <description>Last 10 notes on LAB ARCHIVE</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>domain</title>
+    <link>https://agnusdei1207.github.io/lab/tags/domain</link>
+    <guid>https://agnusdei1207.github.io/lab/tags/domain</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 31 Aug 2026 07:12:02 GMT</pubDate>
+  </item><item>
+    <title>domain/ai-model-protection</title>
+    <link>https://agnusdei1207.github.io/lab/tags/domain/ai-model-protection</link>
+    <guid>https://agnusdei1207.github.io/lab/tags/domain/ai-model-protection</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 31 Aug 2026 07:12:02 GMT</pubDate>
+  </item><item>
+    <title>topic</title>
+    <link>https://agnusdei1207.github.io/lab/tags/topic</link>
+    <guid>https://agnusdei1207.github.io/lab/tags/topic</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 31 Aug 2026 07:12:02 GMT</pubDate>
+  </item><item>
+    <title>topic/pii</title>
+    <link>https://agnusdei1207.github.io/lab/tags/topic/pii</link>
+    <guid>https://agnusdei1207.github.io/lab/tags/topic/pii</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 31 Aug 2026 07:12:02 GMT</pubDate>
+  </item><item>
+    <title>domain/rag-context</title>
+    <link>https://agnusdei1207.github.io/lab/tags/domain/rag-context</link>
+    <guid>https://agnusdei1207.github.io/lab/tags/domain/rag-context</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 31 Aug 2026 07:12:02 GMT</pubDate>
+  </item><item>
+    <title>topic/retrieval-fusion</title>
+    <link>https://agnusdei1207.github.io/lab/tags/topic/retrieval-fusion</link>
+    <guid>https://agnusdei1207.github.io/lab/tags/topic/retrieval-fusion</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 31 Aug 2026 07:12:02 GMT</pubDate>
+  </item><item>
+    <title>domain/agent-security</title>
+    <link>https://agnusdei1207.github.io/lab/tags/domain/agent-security</link>
+    <guid>https://agnusdei1207.github.io/lab/tags/domain/agent-security</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 31 Aug 2026 07:12:02 GMT</pubDate>
+  </item><item>
+    <title>topic/blue-agent</title>
+    <link>https://agnusdei1207.github.io/lab/tags/topic/blue-agent</link>
+    <guid>https://agnusdei1207.github.io/lab/tags/topic/blue-agent</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 31 Aug 2026 07:12:02 GMT</pubDate>
+  </item><item>
+    <title>topic/honeypot</title>
+    <link>https://agnusdei1207.github.io/lab/tags/topic/honeypot</link>
+    <guid>https://agnusdei1207.github.io/lab/tags/topic/honeypot</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 31 Aug 2026 07:12:02 GMT</pubDate>
+  </item><item>
+    <title>topic/red-agent</title>
+    <link>https://agnusdei1207.github.io/lab/tags/topic/red-agent</link>
+    <guid>https://agnusdei1207.github.io/lab/tags/topic/red-agent</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 31 Aug 2026 07:12:02 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
